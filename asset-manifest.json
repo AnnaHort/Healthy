@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/healthy/static/css/main.2f571fa6.css",
+    "main.js": "/healthy/static/js/main.88d358cc.js",
+    "index.html": "/healthy/index.html",
+    "main.2f571fa6.css.map": "/healthy/static/css/main.2f571fa6.css.map",
+    "main.88d358cc.js.map": "/healthy/static/js/main.88d358cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f571fa6.css",
+    "static/js/main.88d358cc.js"
+  ]
+}

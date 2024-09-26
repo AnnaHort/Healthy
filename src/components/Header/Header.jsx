@@ -10,7 +10,7 @@ import {
 const Header = () => {
   return (
     <HeaderContainerStyle>
-      <LogoStyle href="/">HealthyHub!!!!!!!!!!!</LogoStyle>
+      <LogoStyle href="/">HealthyHub</LogoStyle>
       <HeaderLinkContainer>
         <div>
           <HeaderLinkSignIn href="/">Sign in</HeaderLinkSignIn>
